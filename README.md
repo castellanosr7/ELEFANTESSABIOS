@@ -7,4 +7,5 @@ Splash Artist
 José Acevedo y Gómez - Zona Centro Bogotá
 #### Perfil: 
 Mi nombre es Andrés Felipe Castellanos, estoy estudiando ingeniería multimedia en la
-UNAD. Mis hobbies son los videojuegos, la bicicleta y la comida.
+UNAD. Voy en el 7° semestre. Mis hobbies son los videojuegos, la bicicleta y la comida.
+Yo soy el gestor del repositorio.
