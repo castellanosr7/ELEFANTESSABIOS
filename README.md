@@ -1,8 +1,8 @@
-### **Jaun Diego Sánchez Carreño**
+### **Jaun Diego SÃ¡nchez CarreÃ±o**
 #### Rol: 
 FX Artist
-#### Ubicación: 
-José Acevedo y Gómez - Zona Centro Bogotá
+#### UbicaciÃ³n: 
+JosÃ© Acevedo y GÃ³mez - Zona Centro BogotÃ¡
 #### Perfil: 
-Mi nombre es Juan Diego Sánchez Carreño. Soy Técnico Industrial en Mecatrónica y 
-estudiante de Ingenieria Multimedia en la UNAD. Disdfruto de la música, el deporte y los jueguitos de computadora.
+Mi nombre es Juan Diego SÃ¡nchez CarreÃ±o. Soy TÃ©cnico Industrial en MecatrÃ³nica y 
+estudiante de Ingenieria Multimedia en la UNAD. Disdfruto de la mÃºsica, el deporte en especial el futbol y los jueguitos de computadora.
