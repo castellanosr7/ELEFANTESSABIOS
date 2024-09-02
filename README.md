@@ -19,7 +19,7 @@ Mi nombre es Daniel Andrés Cortés Cifuentes. Soy Tecnologo en Producción de M
 estudiante de ingenieria Multimedia en la UNAD. Mis hobbies son la música, los videojuegos y 
 el deporte.
 
-### **Jaun Diego Sánchez Carreño**
+### **Juan Diego Sánchez Carreño**
 #### Rol: 
 FX Artist
 #### Ubicación: 
